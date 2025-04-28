@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+```
 <html>
     <img src="logo.png" height="150" width="900">
     <table border="2" cellspacing="2" cellpading ="2">
@@ -40,21 +40,21 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <td> 8 to 10 </td>
-        <td>Probability and queuing models</td>
-        <td>entFundamentals of web application development </td>
-        <td>Fundamentals of c programming</td>
-        <td>Human values and professional ethics</td>
-        <td>Physics for quantum computing</td>
-        <td>Prototyping of iot systems</td>
+        <td>Communicative english</td>
+        <td>Data structure</td>
+        <td>Data structure</td>
+        <td>Fundamentals of web application development</td>
+        <td>free slot</td>
+        <td>free slot</td>
     </tr>
     <tr>
         <td> 10 to 12</td>
-        <td>Prototyping of iot systems</td>
-        <td>Physics for quantum computing</td>
-        <td>Probability and queuing models</td>
-        <td>Career development skills </td>
-        <td>Free slot </td>
-        <td>Free slot</td>
+        <td>Fundamentals of c programming</td>
+        <td>German language A2</td>
+        <td>German language A2</td>
+        <td>Engineerin mechanics and product development</td>
+        <td>Engineering mechanics and product development </td>
+        <td>Fundamentals of web application development</td>
     </tr>
     <tr>
         <td> 12 to 1</td>
@@ -62,14 +62,22 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <td> 1 to 3</td>
-        <td>Fundamentals of c programming</td>
-        <td>Environmental science and Sustainability</td>
+        <td>Basic electric,electronics and measurement engineering</td>
+        <td>career development skills</td>
         <td>Mentor MEET</td>
-        <td>Free slot </td>
-        <td>Fundamentals of web application development</td>
-        <td>Fundamentals of web application development</td>
+        <td>Communicative english </td>
+        <td>Fundamentals of c programming</td>
+        <td>Principles of chemistry in engineering</td>
 
     </tr>
+    <tr>
+        <td> 3 to 5</td>
+        <td>Principles of chemistry in engineering</td>
+        <td>German language A2</td>
+        <td>Basic electrical,electronics and measurement engineering</td>
+        <td>free slot</td>
+        <td>free slot</td>
+        <td>free slot</td>
 </table>
 <br>
 <table border="2" cellspacing="2" cellpadding="6">
@@ -90,28 +98,28 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <td>03</td>
-        <td>19MA222</td>
-        <td>Probability and queuing models</td>
+        <td>19EN101</td>
+        <td>Communicative english</td>
     </tr>
     <tr>
         <td>04</td>
-        <td>19CS420</td>
-        <td>Prototyping of iot systems</td>
+        <td>19AI408</td>
+        <td>Data structure</td>
     </tr>
     <tr>
         <td>05</td>
-        <td>SH3214</td>
-        <td>Physics for quantum computing</td>
+        <td>19TD606</td>
+        <td>German language A2</td>
     </tr>
     <tr>
         <td>06</td>
-        <td>SH4801</td>
-        <td>Environmental science and Sustainability</td>
+        <td>19AI303</td>
+        <td>Engineering mechanics and product development</td>
     </tr>
     <tr>
         <td>07</td>
-        <td>SH7801</td>
-        <td>Human values and professional ethics</td>
+        <td>19EE305</td>
+        <td>Basic electrical,electronics and measurement engineering</td>
     </tr>
     <tr>
         <td>08</td>
@@ -121,16 +129,17 @@ Execute the program using runserver command.
     <tr>
         <td>09</td>
         <td>SH7101</td>
-        <td>Heritages of Tamils</td>
+        <td>Principles of chemistry in engineering</td>
     </tr>
 
 </table>
 
 </html>
-
+```
 ## OUTPUT
 
-![Screenshot 2025-04-28 215555](https://github.com/user-attachments/assets/34dc0adc-cb95-4479-bd95-a9131b1ab062)
+![Screenshot 2025-04-28 222051](https://github.com/user-attachments/assets/f14e645d-dbf2-43fd-819a-4bf908b5d6c3)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
