@@ -1,5 +1,6 @@
 # Ex03 Time Table
-## Date:
+## Date:28/04/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM
 To write a html webpage page to display your slot timetable.
